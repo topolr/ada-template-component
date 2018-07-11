@@ -5,4 +5,4 @@ let app = {
     description: "A simply component template of ada.",
     main: "./src/root.js"
 };
-export default app;
+module.exports=app;
